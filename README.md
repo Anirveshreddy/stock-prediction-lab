@@ -34,6 +34,18 @@ Learn financial markets, Python, statistics, machine learning, and deep learning
 - Calculate daily returns
 - Visualize price and volume
 
+#### Day 2
+- Learned Pandas `loc` and `iloc`
+- Worked with `DatetimeIndex`
+- Learned date-based filtering
+- Learned Boolean filtering
+- Learned sorting by index and column
+- Checked for missing values
+- Checked for duplicate dates
+- Learned why the first daily return is `NaN`
+- Saved and loaded market data using CSV
+- Performed basic exploratory analysis of AAPL returns and volume
+
 ## Tech Stack
 
 - Python
