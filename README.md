@@ -46,6 +46,22 @@ Learn financial markets, Python, statistics, machine learning, and deep learning
 - Saved and loaded market data using CSV
 - Performed basic exploratory analysis of AAPL returns and volume
 
+#### Day 3
+- Learned descriptive statistics for stock returns
+- Calculated mean and median daily returns
+- Learned variance and standard deviation
+- Examined return percentiles
+- Visualized the distribution of daily returns
+- Calculated cumulative returns
+- Learned the concept of volatility
+- Calculated annualized volatility
+- Calculated 20-day rolling volatility
+- Compared AAPL daily returns with SPY and QQQ
+- Learned correlation and correlation matrices
+- Used scatter plots to investigate relationships between assets
+- Introduced the difference between historical analysis and prediction
+- Introduced the concept of future-information leakage
+
 ## Tech Stack
 
 - Python
