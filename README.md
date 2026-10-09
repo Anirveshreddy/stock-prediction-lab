@@ -62,6 +62,24 @@ Learn financial markets, Python, statistics, machine learning, and deep learning
 - Introduced the difference between historical analysis and prediction
 - Introduced the concept of future-information leakage
 
+#### Day 4
+- Learned the purpose of technical indicators
+- Created 20-day, 50-day and 200-day Simple Moving Averages
+- Created 12-day and 26-day Exponential Moving Averages
+- Created price-to-moving-average features
+- Created moving-average relationship features
+- Created 10-day momentum
+- Implemented RSI-14 manually using Pandas
+- Implemented MACD, signal line and histogram
+- Implemented Bollinger Bands
+- Created Bollinger Band %B
+- Created volume-change and relative-volume features
+- Learned the difference between features and targets
+- Created a one-day-ahead return target
+- Created an UP/DOWN classification target
+- Reviewed future-information leakage and look-ahead bias
+- Built the first feature set for the future ML pipeline
+
 ## Tech Stack
 
 - Python
