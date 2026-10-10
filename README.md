@@ -80,6 +80,22 @@ Learn financial markets, Python, statistics, machine learning, and deep learning
 - Reviewed future-information leakage and look-ahead bias
 - Built the first feature set for the future ML pipeline
 
+#### Day 5
+- Rebuilt a reproducible AAPL feature dataset
+- Created lagged return features
+- Created a next-trading-day return target
+- Created a binary UP/DOWN classification target
+- Learned feature/target alignment using `shift()`
+- Learned to exclude future information from input features
+- Created a chronological 80/20 training/test split
+- Investigated feature correlations with future returns using training data
+- Examined UP/DOWN class distributions
+- Created a majority-class baseline with scikit-learn
+- Created a previous-day direction-persistence baseline
+- Evaluated predictions using accuracy and balanced accuracy
+- Learned why accuracy alone can be misleading
+- Reviewed data leakage and look-ahead bias
+
 ## Tech Stack
 
 - Python
