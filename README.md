@@ -96,6 +96,17 @@ Learn financial markets, Python, statistics, machine learning, and deep learning
 - Learned why accuracy alone can be misleading
 - Reviewed data leakage and look-ahead bias
 
+#### Day 6
+- Trained logistic regression to classify next-trading-day AAPL direction
+- Rebuilt technical features from the raw market-data CSV
+- Created a StandardScaler and LogisticRegression pipeline
+- Generated class predictions and estimated UP probabilities
+- Evaluated accuracy, balanced accuracy, precision, recall, F1 and ROC-AUC
+- Examined the confusion matrix and classification report
+- Compared logistic regression against Day 5 baseline models
+- Inspected model coefficients
+- Reviewed chronological testing, probability interpretation and data leakage
+
 ## Tech Stack
 
 - Python
