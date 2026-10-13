@@ -13,6 +13,14 @@
 ## Week 2 — Model Evaluation and Diagnostics
 
 - **Day 1:** Model Evaluation and Error Analysis
+
+- Confusion matrix, true positives/negatives, false positives/negatives
+- Accuracy, balanced accuracy, precision, recall, F1 and ROC-AUC
+- Baseline vs logistic regression comparison
+- Misclassified-date investigation
+- Year-by-year test performance
+- Error analysis and evaluation limitations
+
 - **Day 2:** Classification Metrics and Class Imbalance
 - **Day 3:** Probability Calibration and Prediction Thresholds
 - **Day 4:** Regularization and Feature Analysis
