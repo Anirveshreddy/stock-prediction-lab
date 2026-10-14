@@ -22,6 +22,18 @@
 - Error analysis and evaluation limitations
 
 - **Day 2:** Classification Metrics and Class Imbalance
+
+### Day 2 — Classification Metrics and Class Imbalance
+
+- UP/DOWN class distribution
+- Accuracy vs balanced accuracy
+- Precision, recall and F1
+- Macro vs weighted F1
+- Class weights in logistic regression
+- Standard vs class-weighted model comparison
+- Class-specific confusion matrices and prediction rates
+
+**Notebook:** `09_classification_metrics_class_imbalance.ipynb`
 - **Day 3:** Probability Calibration and Prediction Thresholds
 - **Day 4:** Regularization and Feature Analysis
 - **Day 5:** Model Diagnostics and Stability
