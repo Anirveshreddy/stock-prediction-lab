@@ -35,6 +35,17 @@
 
 **Notebook:** `09_classification_metrics_class_imbalance.ipynb`
 - **Day 3:** Probability Calibration and Prediction Thresholds
+### Day 3 — Probability Calibration and Thresholds
+
+- Predicted probabilities vs class labels
+- Brier score and calibration curves
+- Default 0.5 classification threshold
+- Validation-based threshold selection
+- Precision/recall trade-offs across thresholds
+- Separate train, validation and test periods
+- Evaluation of the selected threshold on held-out test data
+
+
 - **Day 4:** Regularization and Feature Analysis
 - **Day 5:** Model Diagnostics and Stability
 - **Day 6:** Evaluation Improvements
