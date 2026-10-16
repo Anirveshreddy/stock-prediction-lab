@@ -47,6 +47,18 @@
 
 
 - **Day 4:** Regularization and Feature Analysis
+
+### Day 4 — Regularization and Feature Analysis
+
+- Overfitting, generalization and regularization
+- L1 vs L2 penalties and the inverse-strength parameter `C`
+- Validation-based regularization comparison
+- Training/validation performance gaps
+- Feature correlation and redundancy
+- Logistic-regression coefficient analysis
+- Permutation feature importance
+- Final test evaluation after model selection
+
 - **Day 5:** Model Diagnostics and Stability
 - **Day 6:** Evaluation Improvements
 - **Day 7:** Weekly Review
