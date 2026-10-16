@@ -60,6 +60,16 @@
 - Final test evaluation after model selection
 
 - **Day 5:** Model Diagnostics and Stability
+### Day 5 — Model Diagnostics and Stability
+
+- Walk-forward evaluation with expanding training windows
+- TimeSeriesSplit and a one-observation target gap
+- Fold-level accuracy, balanced accuracy, F1 and ROC-AUC
+- Model stability: mean and standard deviation across folds
+- Final held-out test evaluation
+- Annual performance diagnostics
+- Higher- versus lower-volatility regime analysis
+
 - **Day 6:** Evaluation Improvements
 - **Day 7:** Weekly Review
 
