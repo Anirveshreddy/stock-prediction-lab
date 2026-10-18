@@ -78,4 +78,9 @@ selection, final test report, leakage checks.
 
 - **Day 7:** Weekly Review
 
+W2 Day 7: weekly review, reusable evaluation workflow,
+feature/target leakage audit, chronological holdout,
+baseline comparison, threshold selection, yearly stability,
+model-readiness checks.
+
 *Future daily topics will be updated as the project progresses.*
