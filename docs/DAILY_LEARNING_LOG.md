@@ -71,6 +71,11 @@
 - Higher- versus lower-volatility regime analysis
 
 - **Day 6:** Evaluation Improvements
+
+W2 Day 6: reusable evaluation functions, chronological
+train/validation/test split, baseline comparison, threshold
+selection, final test report, leakage checks.
+
 - **Day 7:** Weekly Review
 
 *Future daily topics will be updated as the project progresses.*
