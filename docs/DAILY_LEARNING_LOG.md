@@ -88,4 +88,6 @@ tree visualization, max_depth and min_samples_leaf,
 overfitting analysis, validation-based depth selection,
 baseline and logistic regression comparison, feature importance.
 
+W3 Day2: Decision tree complexity, max_depth, min_samples_leaf, min_samples_split, overfitting analysis, cost-complexity pruning with ccp_alpha, validation-based hyperparameter selection, final test evaluation, model comparison.
+
 *Future daily topics will be updated as the project progresses.*
