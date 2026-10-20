@@ -83,4 +83,9 @@ feature/target leakage audit, chronological holdout,
 baseline comparison, threshold selection, yearly stability,
 model-readiness checks.
 
+W3 Day 1: decision tree fundamentals, Gini impurity,
+tree visualization, max_depth and min_samples_leaf,
+overfitting analysis, validation-based depth selection,
+baseline and logistic regression comparison, feature importance.
+
 *Future daily topics will be updated as the project progresses.*
