@@ -90,4 +90,6 @@ baseline and logistic regression comparison, feature importance.
 
 W3 Day2: Decision tree complexity, max_depth, min_samples_leaf, min_samples_split, overfitting analysis, cost-complexity pruning with ccp_alpha, validation-based hyperparameter selection, final test evaluation, model comparison.
 
+W3 Day3: Random Forest fundamentals, bootstrap sampling, randomized feature selection, ensemble voting, n_estimators/max_features/depth/leaf-size tuning, validation-based model selection, baseline/logistic/tree/forest comparison, confusion matrix, feature importance, out-of-bag evaluation and its time-series limitations.
+
 *Future daily topics will be updated as the project progresses.*
