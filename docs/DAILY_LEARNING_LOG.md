@@ -92,4 +92,8 @@ W3 Day2: Decision tree complexity, max_depth, min_samples_leaf, min_samples_spli
 
 W3 Day3: Random Forest fundamentals, bootstrap sampling, randomized feature selection, ensemble voting, n_estimators/max_features/depth/leaf-size tuning, validation-based model selection, baseline/logistic/tree/forest comparison, confusion matrix, feature importance, out-of-bag evaluation and its time-series limitations.
 
+W3 Day4: Random Forest train-validation diagnostics, baseline and model comparison, overfitting analysis, impurity-based feature importance, permutation importance, and validation-based model selection with final test evaluation.
+
+W3 Day5: Random Forest bootstrap sampling, ensemble voting, out-of-bag evaluation, hyperparameter experiments, validation-based selection, and final test comparison.
+
 *Future daily topics will be updated as the project progresses.*
