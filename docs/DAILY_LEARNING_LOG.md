@@ -96,4 +96,6 @@ W3 Day4: Random Forest train-validation diagnostics, baseline and model comparis
 
 W3 Day5: Random Forest bootstrap sampling, ensemble voting, out-of-bag evaluation, hyperparameter experiments, validation-based selection, and final test comparison.
 
+W3 Day6: Comparison of majority baseline, logistic regression, decision tree, and Random Forest; training-validation generalization gaps; classification metrics; confusion matrices; and validation-based model selection.
+
 *Future daily topics will be updated as the project progresses.*
