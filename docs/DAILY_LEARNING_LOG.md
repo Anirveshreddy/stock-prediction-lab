@@ -100,4 +100,6 @@ W3 Day6: Comparison of majority baseline, logistic regression, decision tree, an
 
 W3 Day7: Review of decision trees, pruning, Random Forest bootstrap sampling, ensemble predictions, OOB limitations, feature importance, generalization gaps, classification metrics, and validation-based model selection.
 
+W4 Day1: Gradient boosting fundamentals, sequential tree fitting, loss gradients, learning_rate, n_estimators, tree depth, chronological validation, baseline comparison, staged validation performance, and feature importance.
+
 *Future daily topics will be updated as the project progresses.*
