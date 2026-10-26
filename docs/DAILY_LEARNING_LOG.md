@@ -98,4 +98,6 @@ W3 Day5: Random Forest bootstrap sampling, ensemble voting, out-of-bag evaluatio
 
 W3 Day6: Comparison of majority baseline, logistic regression, decision tree, and Random Forest; training-validation generalization gaps; classification metrics; confusion matrices; and validation-based model selection.
 
+W3 Day7: Review of decision trees, pruning, Random Forest bootstrap sampling, ensemble predictions, OOB limitations, feature importance, generalization gaps, classification metrics, and validation-based model selection.
+
 *Future daily topics will be updated as the project progresses.*
