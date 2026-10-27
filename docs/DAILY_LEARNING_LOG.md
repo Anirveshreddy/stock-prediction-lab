@@ -102,4 +102,6 @@ W3 Day7: Review of decision trees, pruning, Random Forest bootstrap sampling, en
 
 W4 Day1: Gradient boosting fundamentals, sequential tree fitting, loss gradients, learning_rate, n_estimators, tree depth, chronological validation, baseline comparison, staged validation performance, and feature importance.
 
+W4 Day2: Gradient Boosting hyperparameter tuning, learning_rate and n_estimators trade-off, tree depth, validation-based model selection, balanced accuracy, macro F1, log loss, and generalization-gap analysis.
+
 *Future daily topics will be updated as the project progresses.*
