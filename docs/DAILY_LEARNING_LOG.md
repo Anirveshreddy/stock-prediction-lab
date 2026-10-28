@@ -104,4 +104,6 @@ W4 Day1: Gradient boosting fundamentals, sequential tree fitting, loss gradients
 
 W4 Day2: Gradient Boosting hyperparameter tuning, learning_rate and n_estimators trade-off, tree depth, validation-based model selection, balanced accuracy, macro F1, log loss, and generalization-gap analysis.
 
+W4 Day3: Stochastic Gradient Boosting, subsample, minimum leaf size, maximum leaf nodes, regularization through tree constraints, validation-based comparisons, and generalization-gap analysis.
+
 *Future daily topics will be updated as the project progresses.*
