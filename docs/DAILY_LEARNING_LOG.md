@@ -106,4 +106,6 @@ W4 Day2: Gradient Boosting hyperparameter tuning, learning_rate and n_estimators
 
 W4 Day3: Stochastic Gradient Boosting, subsample, minimum leaf size, maximum leaf nodes, regularization through tree constraints, validation-based comparisons, and generalization-gap analysis.
 
+W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_weight, row and feature subsampling, L2 regularization, validation diagnostics, model comparison, and feature importance.
+
 *Future daily topics will be updated as the project progresses.*
