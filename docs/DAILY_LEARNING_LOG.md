@@ -110,4 +110,6 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 
 - W4 Day5: XGBoost hyperparameter experiments, tree complexity, learning rate, min_child_weight, row and feature subsampling, L1/L2 regularization, early stopping, validation-based model selection, and final test evaluation.
 
+- W4 Day6: Compared baseline, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, and XGBoost using consistent chronological splits; analyzed validation metrics, generalization gaps, confusion matrices, and final test performance.
+
 *Future daily topics will be updated as the project progresses.*
