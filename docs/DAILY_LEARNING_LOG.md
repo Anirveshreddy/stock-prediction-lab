@@ -114,4 +114,6 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 
 - W4 Day7: Reviewed bagging vs boosting, Gradient Boosting, XGBoost, regularization, early stopping, model evaluation, generalization, and feature-target leakage checks. Completed Week 4 model-readiness assessment.
 
+- W5 Day1: Implemented expanding-window time-series cross-validation with TimeSeriesSplit, five 252-observation validation folds, a one-observation gap, fold-level metrics, and performance stability analysis.
+
 *Future daily topics will be updated as the project progresses.*
