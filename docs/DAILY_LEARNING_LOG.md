@@ -116,4 +116,6 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 
 - W5 Day1: Implemented expanding-window time-series cross-validation with TimeSeriesSplit, five 252-observation validation folds, a one-observation gap, fold-level metrics, and performance stability analysis.
 
+- W5 Day2: Compared expanding-window validation with rolling 3-year and 5-year training windows using identical chronological validation periods; evaluated Logistic Regression, Random Forest, and majority baseline across five folds.
+
 *Future daily topics will be updated as the project progresses.*
