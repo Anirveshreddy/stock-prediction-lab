@@ -118,4 +118,10 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 
 - W5 Day2: Compared expanding-window validation with rolling 3-year and 5-year training windows using identical chronological validation periods; evaluated Logistic Regression, Random Forest, and majority baseline across five folds.
 
+### Week 5 — Day 3: Walk-Forward Validation
+- Implemented chronological walk-forward evaluation with expanding training history.
+- Compared static and periodically retrained models.
+- Evaluated balanced accuracy, macro-F1, and log loss.
+- Examined model performance across individual test blocks.
+
 *Future daily topics will be updated as the project progresses.*
