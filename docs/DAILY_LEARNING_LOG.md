@@ -124,4 +124,10 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Evaluated balanced accuracy, macro-F1, and log loss.
 - Examined model performance across individual test blocks.
 
+### Week 5 — Day 4: Retraining Frequency and Prediction Tracking
+- Compared daily, weekly, monthly, and quarterly retraining schedules.
+- Evaluated retraining frequency using chronological out-of-sample predictions.
+- Built a prediction ledger with dates, probabilities, outcomes, and training cutoffs.
+- Exported and reloaded the monthly walk-forward prediction ledger.
+
 *Future daily topics will be updated as the project progresses.*
