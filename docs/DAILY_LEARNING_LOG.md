@@ -128,6 +128,6 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Compared daily, weekly, monthly, and quarterly retraining schedules.
 - Evaluated retraining frequency using chronological out-of-sample predictions.
 - Built a prediction ledger with dates, probabilities, outcomes, and training cutoffs.
-- Exported and reloaded the monthly walk-forward prediction ledger.
+- Exported and reloaded monthly walk-forward prediction ledger.
 
 *Future daily topics will be updated as the project progresses.*
