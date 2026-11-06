@@ -130,4 +130,11 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Built a prediction ledger with dates, probabilities, outcomes, and training cutoffs.
 - Exported and reloaded monthly walk-forward prediction ledger.
 
+### Week 5 — Day 5: Time-Series Validation Review
+- Compared baseline, Logistic Regression, and Random Forest using expanding-window validation.
+- Evaluated fold-level performance and stability.
+- Selected a candidate using development validation log loss.
+- Reviewed monthly walk-forward predictions and training cutoffs.
+- Created a model readiness report and identified remaining backtesting requirements.
+
 *Future daily topics will be updated as the project progresses.*
