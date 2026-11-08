@@ -144,4 +144,12 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Repeated model evaluation to verify reproducibility.
 - Generated a time-series audit report and saved validation artifacts.
 
+### Week 5 Day 7 — Time-Series Validation Capstone
+- Consolidated expanding-window validation and chronological evaluation.
+- Reviewed training/validation boundaries and gap requirements.
+- Compared baseline and Logistic Regression across chronological folds.
+- Audited target alignment, feature integrity, and reproducibility.
+- Generated capstone validation and model comparison reports.
+- Key takeaway: reliable historical evaluation must respect time and avoid information leakage.
+
 *Future daily topics will be updated as the project progresses.*
