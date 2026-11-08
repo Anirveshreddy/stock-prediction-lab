@@ -137,4 +137,11 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Reviewed monthly walk-forward predictions and training cutoffs.
 - Created a model readiness report and identified remaining backtesting requirements.
 
+### Week 5 — Day 6: Time-Series Leakage Audit
+- Audited raw date ordering, duplicate dates, and missing data.
+- Verified next-day target alignment and historical feature calculations.
+- Checked chronological validation boundaries and one-row gaps.
+- Repeated model evaluation to verify reproducibility.
+- Generated a time-series audit report and saved validation artifacts.
+
 *Future daily topics will be updated as the project progresses.*
