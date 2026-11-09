@@ -152,4 +152,14 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Generated capstone validation and model comparison reports.
 - Key takeaway: reliable historical evaluation must respect time and avoid information leakage.
 
+### Week 6 Day 1 — Backtesting Fundamentals
+- Introduced trading signals, positions, and long/cash strategies.
+- Generated out-of-sample predictions using expanding-window validation.
+- Converted model probabilities into trading signals.
+- Applied a one-row execution delay to avoid look-ahead bias.
+- Simulated transaction costs and strategy returns.
+- Compared the ML strategy against buy-and-hold.
+- Calculated cumulative returns, volatility, Sharpe ratio, and maximum drawdown.
+- Key takeaway: predictive accuracy alone does not establish trading profitability.
+
 *Future daily topics will be updated as the project progresses.*
