@@ -162,4 +162,13 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Calculated cumulative returns, volatility, Sharpe ratio, and maximum drawdown.
 - Key takeaway: predictive accuracy alone does not establish trading profitability.
 
+### Week 6 Day 2 — Entry/Exit Rules and Threshold Analysis
+- Corrected prediction-to-execution alignment using next-session open-to-open returns.
+- Generated out-of-sample predictions using expanding-window validation with a two-row gap.
+- Implemented probability-based entry and exit rules.
+- Compared 50%, 55%, 60%, and 65% thresholds.
+- Introduced hysteresis using separate entry and exit thresholds.
+- Evaluated exposure, trading frequency, transaction costs, returns, and Sharpe ratio.
+- Key takeaway: threshold selection changes trading behavior and must be evaluated without overfitting.
+
 *Future daily topics will be updated as the project progresses.*
