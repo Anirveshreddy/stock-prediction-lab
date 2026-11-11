@@ -1,0 +1,10 @@
+check,passed
+Chronological index,True
+No duplicate dates,True
+No missing features,True
+No infinite features,True
+Binary target,True
+Correct next-day target,True
+Correct number of folds,True
+Gap applied to every fold,True
+Chronological validation,True

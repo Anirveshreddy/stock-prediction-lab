@@ -171,4 +171,12 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Evaluated exposure, trading frequency, transaction costs, returns, and Sharpe ratio.
 - Key takeaway: threshold selection changes trading behavior and must be evaluated without overfitting.
 
+### Week 6 Day 3 — Transaction Costs and Slippage
+- Distinguished commissions, bid–ask spread, slippage, and market impact.
+- Modeled one-way execution costs in basis points.
+- Applied costs to entries, exits, and fold-end liquidation.
+- Compared gross and net strategy performance.
+- Tested sensitivity to multiple transaction-cost assumptions.
+- Key takeaway: a strategy's gross returns are not meaningful without realistic execution costs.
+
 *Future daily topics will be updated as the project progresses.*

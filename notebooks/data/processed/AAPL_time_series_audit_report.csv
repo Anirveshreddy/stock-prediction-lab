@@ -1,0 +1,10 @@
+check,passed,status
+Dates are sorted,True,PASS
+No duplicate dates,True,PASS
+All expected features present,True,PASS
+No missing feature values,True,PASS
+No infinite feature values,True,PASS
+Target matches next-day return,True,PASS
+All validation folds chronological,True,PASS
+All validation folds have required gap,True,PASS
+Evaluation reproducible,True,PASS
