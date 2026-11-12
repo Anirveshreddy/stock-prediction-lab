@@ -179,4 +179,13 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Tested sensitivity to multiple transaction-cost assumptions.
 - Key takeaway: a strategy's gross returns are not meaningful without realistic execution costs.
 
+### Week 6 Day 4 — Portfolio Sizing and Risk Management
+- Compared full and half portfolio allocation.
+- Implemented volatility-targeted position sizing with a maximum 100% allocation.
+- Used historical volatility available at the prediction date to determine position size.
+- Calculated turnover and transaction costs for changing allocations.
+- Evaluated fold-level returns, volatility, Sharpe ratio, and maximum drawdown.
+- Compared portfolio exposure and risk across sizing methods.
+- Key takeaway: position sizing controls exposure and can materially change portfolio risk; higher returns alone do not establish a better strategy.
+
 *Future daily topics will be updated as the project progresses.*
