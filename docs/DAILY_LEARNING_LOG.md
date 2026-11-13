@@ -188,4 +188,13 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Compared portfolio exposure and risk across sizing methods.
 - Key takeaway: position sizing controls exposure and can materially change portfolio risk; higher returns alone do not establish a better strategy.
 
+### Week 6 Day 5 — Performance Metrics and Drawdown Analysis
+- Calculated total return, CAGR, annualized volatility, Sharpe ratio, and Sortino ratio.
+- Measured maximum drawdown, drawdown duration, and Calmar ratio.
+- Calculated daily win rate and profit factor.
+- Compared buy-and-hold, gross strategy, and net strategy performance.
+- Evaluated results separately across five out-of-sample validation folds.
+- Visualized equity curves, drawdowns, and daily return distributions.
+- Key takeaway: strategy evaluation must consider risk, drawdowns, costs, and consistency—not just total return.
+
 *Future daily topics will be updated as the project progresses.*
