@@ -197,4 +197,12 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Visualized equity curves, drawdowns, and daily return distributions.
 - Key takeaway: strategy evaluation must consider risk, drawdowns, costs, and consistency—not just total return.
 
+### Week 6 Day 6 — Strategy Robustness and Parameter Sensitivity
+- Generated consistent out-of-sample predictions using time-series cross-validation.
+- Tested multiple entry and exit threshold combinations.
+- Evaluated sensitivity to transaction costs and capital allocation.
+- Compared fold-level returns, Sharpe ratios, drawdowns, exposure, and turnover.
+- Visualized threshold, cost, and position-sizing sensitivity.
+- Key takeaway: robust strategies should behave reasonably across nearby parameter choices and realistic trading assumptions.
+
 *Future daily topics will be updated as the project progresses.*
