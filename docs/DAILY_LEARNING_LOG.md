@@ -205,4 +205,12 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Visualized threshold, cost, and position-sizing sensitivity.
 - Key takeaway: robust strategies should behave reasonably across nearby parameter choices and realistic trading assumptions.
 
+### Week 6 Day 7 — Backtesting Capstone and Strategy Readiness
+- Consolidated results from threshold, transaction-cost, and position-sizing experiments.
+- Reviewed performance, volatility, drawdowns, and parameter robustness.
+- Created a research limitations register.
+- Built a strategy readiness checklist.
+- Generated a capstone research report and experiment inventory.
+- Key takeaway: a successful historical backtest is not proof of a profitable live trading strategy.
+
 *Future daily topics will be updated as the project progresses.*
