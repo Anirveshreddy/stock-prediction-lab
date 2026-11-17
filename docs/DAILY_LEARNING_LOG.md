@@ -213,4 +213,14 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Generated a capstone research report and experiment inventory.
 - Key takeaway: a successful historical backtest is not proof of a profitable live trading strategy.
 
+### Week 7 Day 1 — PyTorch Tensors and Tensor Operations
+- Installed and verified PyTorch.
+- Learned scalar, vector, matrix, and higher-dimensional tensors.
+- Explored tensor shapes, dimensions, and data types.
+- Practiced arithmetic, matrix multiplication, indexing, slicing, and reshaping.
+- Learned broadcasting and NumPy/PyTorch conversion.
+- Converted AAPL stock features and targets into PyTorch tensors.
+- Explored CPU/GPU device selection.
+- Key takeaway: tensors are the fundamental data structures used to build and train neural networks.
+
 *Future daily topics will be updated as the project progresses.*

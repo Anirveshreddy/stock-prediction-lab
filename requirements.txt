@@ -6,3 +6,7 @@ ipykernel
 
 #Machine Learning Libraries
 scikit-learn
+xgboost
+
+#Deep Learning Libraries
+torch
