@@ -223,4 +223,14 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Explored CPU/GPU device selection.
 - Key takeaway: tensors are the fundamental data structures used to build and train neural networks.
 
+### Week 7 Day 2 — Autograd and Automatic Differentiation
+- Learned derivatives, gradients, and the chain rule.
+- Used PyTorch Autograd to calculate derivatives automatically.
+- Explored computational graphs and gradient accumulation.
+- Implemented gradient descent manually.
+- Used PyTorch SGD optimizer to update model parameters.
+- Calculated gradients for a simple AAPL logistic prediction model.
+- Learned when to use torch.no_grad() and detach().
+- Key takeaway: neural networks learn by calculating loss gradients and updating their parameters.
+
 *Future daily topics will be updated as the project progresses.*
