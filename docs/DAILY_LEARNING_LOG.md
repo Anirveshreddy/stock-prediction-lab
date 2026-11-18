@@ -233,4 +233,14 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Learned when to use torch.no_grad() and detach().
 - Key takeaway: neural networks learn by calculating loss gradients and updating their parameters.
 
+### Week 7 Day 3 — Neural Network Building Blocks
+- Implemented a single neuron manually using weights, inputs, and bias.
+- Compared ReLU, sigmoid, and tanh activation functions.
+- Created PyTorch Linear layers and inspected their parameters.
+- Built a feedforward neural network with two hidden layers.
+- Explored forward propagation and output probabilities.
+- Implemented a reusable custom model using nn.Module.
+- Connected the neural network to four AAPL stock features.
+- Key takeaway: neural networks combine trainable linear layers and nonlinear activation functions to learn complex patterns.
+
 *Future daily topics will be updated as the project progresses.*
