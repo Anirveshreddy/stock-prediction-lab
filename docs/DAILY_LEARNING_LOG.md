@@ -243,4 +243,16 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Connected the neural network to four AAPL stock features.
 - Key takeaway: neural networks combine trainable linear layers and nonlinear activation functions to learn complex patterns.
 
+### Week 7 Day 4 — Loss Functions and Optimizers
+- Compared Mean Squared Error and Binary Cross Entropy.
+- Learned why BCEWithLogitsLoss is suitable for binary classification.
+- Explored logits, sigmoid probabilities, and loss calculation.
+- Implemented manual gradient descent and PyTorch SGD.
+- Compared SGD and Adam optimizers.
+- Tested how different learning rates affect convergence.
+- Trained an AAPL neural network using BCEWithLogitsLoss.
+- Compared training and validation loss.
+- Evaluated predictions against a majority-class baseline.
+- Key takeaway: loss measures model error, while optimizers use gradients to update model parameters.
+
 *Future daily topics will be updated as the project progresses.*
