@@ -255,4 +255,17 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Evaluated predictions against a majority-class baseline.
 - Key takeaway: loss measures model error, while optimizers use gradients to update model parameters.
 
+### Week 7 Day 5 — PyTorch Training Loops and Checkpoints
+- Learned epochs, batches, iterations, and mini-batch training.
+- Created TensorDataset and DataLoader objects.
+- Implemented shuffled training batches and ordered validation batches.
+- Built a reusable training and evaluation loop.
+- Tracked training and validation loss and accuracy.
+- Implemented early stopping using validation loss.
+- Saved and loaded the best model using state_dict.
+- Explored saving model and optimizer states for training resumption.
+- Evaluated the best checkpoint on AAPL validation data.
+- Key takeaway: mini-batch training, validation monitoring, and checkpointing make neural-network training reproducible and manageable.
+
+
 *Future daily topics will be updated as the project progresses.*
