@@ -267,5 +267,16 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Evaluated the best checkpoint on AAPL validation data.
 - Key takeaway: mini-batch training, validation monitoring, and checkpointing make neural-network training reproducible and manageable.
 
+### Week 7 Day 6 — Overfitting, Regularization, and Model Evaluation
+- Studied underfitting and overfitting using training and validation learning curves.
+- Created a synthetic classification experiment to observe overfitting.
+- Implemented Dropout regularization in PyTorch.
+- Explored weight decay (L2-style regularization).
+- Implemented early stopping and restored the best validation checkpoint.
+- Applied regularization techniques to the AAPL stock-direction model.
+- Compared plain, dropout, and weight-decay models.
+- Evaluated accuracy, balanced accuracy, and validation BCE against a baseline.
+- Key takeaway: a model must generalize to unseen data; lower training loss alone does not establish predictive value.
+
 
 *Future daily topics will be updated as the project progresses.*
