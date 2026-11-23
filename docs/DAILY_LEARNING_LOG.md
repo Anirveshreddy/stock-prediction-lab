@@ -278,5 +278,19 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Evaluated accuracy, balanced accuracy, and validation BCE against a baseline.
 - Key takeaway: a model must generalize to unseen data; lower training loss alone does not establish predictive value.
 
+### Week 7 Day 7 — PyTorch Neural Network Capstone
+- Built a complete AAPL binary classification workflow using PyTorch.
+- Created four historical market features and a two-session-ahead target.
+- Implemented chronological train, validation, and test splits with boundary gaps.
+- Applied training-only feature scaling.
+- Built a configurable neural network with mini-batch DataLoaders.
+- Compared plain, dropout, and weight-decay models.
+- Used validation loss for model selection and early stopping.
+- Saved model weights and preprocessing metadata.
+- Evaluated the selected model on an untouched test period.
+- Compared test performance against training-derived baselines.
+- Exported experiment metrics and a JSON summary.
+- Key takeaway: a reproducible neural-network workflow must separate training, model selection, and final testing.
+
 
 *Future daily topics will be updated as the project progresses.*

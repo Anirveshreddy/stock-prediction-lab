@@ -1,0 +1,33 @@
+{
+    "project": "AAPL Stock Direction Prediction",
+    "week": 7,
+    "best_model": "Dropout 0.2",
+    "features": [
+        "return_1d",
+        "return_5d",
+        "volatility_20d",
+        "sma_10_ratio"
+    ],
+    "target": "Next session Open to following session Open return > 0",
+    "split": {
+        "training_rows": 1918,
+        "validation_rows": 410,
+        "test_rows": 412,
+        "training_start": "2015-02-02",
+        "training_end": "2022-09-13",
+        "validation_start": "2022-09-16",
+        "validation_end": "2024-05-03",
+        "test_start": "2024-05-08",
+        "test_end": "2025-12-29"
+    },
+    "best_validation_loss": 0.6900936260455992,
+    "test_metrics": {
+        "Accuracy": 0.5218446601941747,
+        "Balanced accuracy": 0.5181031373963216,
+        "Precision": 0.5871559633027523,
+        "Recall": 0.5446808510638298,
+        "F1": 0.565121412803532,
+        "Log loss": 0.6889537572860718
+    },
+    "seed": 42
+}
