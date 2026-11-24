@@ -292,5 +292,20 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 - Exported experiment metrics and a JSON summary.
 - Key takeaway: a reproducible neural-network workflow must separate training, model selection, and final testing.
 
+### Week 8 – Day 1: Feedforward Neural Network Architecture
+
+**Topics covered:**
+- Feedforward neural network architecture
+- Input, hidden, and output layers
+- Neurons, weights, biases, and ReLU activation
+- Feature engineering using AAPL market data
+- Chronological train/validation/test splitting
+- Training-only feature standardization
+- PyTorch tensors and mini-batch DataLoaders
+- Binary cross-entropy with logits and Adam optimizer
+- Training loops, early stopping, and best-checkpoint restoration
+- Validation metrics and baseline comparison
+
+**Outcome:** Built and trained a feedforward neural network for AAPL stock-direction prediction. Evaluated validation performance against simple baselines without using the test set.
 
 *Future daily topics will be updated as the project progresses.*
