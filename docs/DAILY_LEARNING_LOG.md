@@ -308,4 +308,21 @@ W4 Day4: XGBoost fundamentals, binary:logistic, log loss, max_depth, min_child_w
 
 **Outcome:** Built and trained a feedforward neural network for AAPL stock-direction prediction. Evaluated validation performance against simple baselines without using the test set.
 
+### Week 8 – Day 2: Neural Network Architecture Comparison
+
+**Notebook:** `51_neural_network_architecture_comparison.ipynb`
+
+**Topics covered:**
+- Neural network width and depth
+- Small, medium, and large feedforward architectures
+- Configurable PyTorch neural network class
+- Trainable parameter counts
+- Consistent chronological data preparation
+- Reusable training and validation functions
+- Early stopping and best-checkpoint restoration
+- Architecture comparison using validation loss and classification metrics
+- Baseline comparison and provisional architecture selection
+
+**Outcome:** Compared three feedforward neural network architectures on AAPL stock-direction prediction and evaluated the impact of network complexity on validation performance.
+
 *Future daily topics will be updated as the project progresses.*
