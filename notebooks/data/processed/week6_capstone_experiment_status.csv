@@ -1,0 +1,6 @@
+experiment,day,available
+Entry/exit thresholds,2,False
+Transaction costs,3,False
+Position sizing,4,False
+Performance and drawdown,5,False
+Parameter robustness,6,True

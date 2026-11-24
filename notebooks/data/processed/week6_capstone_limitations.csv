@@ -1,0 +1,7 @@
+area,limitation,next_action
+Historical data,AAPL is one stock and one historical period.,Test additional stocks and market regimes.
+Model signal,Directional prediction may have little economic value.,Compare against simple baselines and calibrated probabilities.
+Transaction costs,Fixed basis-point costs simplify actual execution.,"Study spread, slippage, and market impact."
+Validation,Repeated experimentation can overfit validation folds.,Reserve an untouched holdout or use forward testing.
+Portfolio,Single-stock tests omit portfolio diversification.,Test multiple assets and portfolio-level risk.
+Execution,Backtests do not simulate all real trading constraints.,"Model execution timing, liquidity, and order handling."

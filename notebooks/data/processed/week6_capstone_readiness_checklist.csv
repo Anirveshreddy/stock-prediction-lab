@@ -1,0 +1,11 @@
+requirement,completed
+Prediction timing and target alignment verified,False
+Out-of-sample predictions generated,False
+Transaction costs included,False
+Drawdown and volatility reviewed,False
+Position sizing evaluated,False
+Parameter sensitivity reviewed,False
+Validation leakage risks documented,False
+Untouched final holdout evaluated,False
+Results tested on additional assets,False
+Forward/paper trading completed,False
