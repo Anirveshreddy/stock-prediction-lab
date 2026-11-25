@@ -75,5 +75,20 @@
 - **Day 1:** Feedforward Neural Network Architecture, Input/Hidden/Output Layers, Neurons, Weights, Biases, ReLU, Feature Engineering, Chronological Data Splitting, Feature Standardization, DataLoaders, BCEWithLogitsLoss, Adam, Early Stopping
 - **Day 2:** Neural Network Architecture Comparison, Network Width and Depth, Small/Medium/Large Architectures, Configurable PyTorch Models, Trainable Parameters, Reusable Training Functions, Early Stopping, Validation Metrics, Baseline Comparison
 
+### Week 8 – Day 3: Neural Network Hyperparameter Tuning
+
+
+**Topics covered:**
+- Model parameters versus hyperparameters
+- Learning rate and optimizer behavior
+- Batch size and mini-batch gradient updates
+- Dropout and regularization
+- Reusable PyTorch experiment functions
+- Controlled one-variable-at-a-time experiments
+- Validation loss comparison
+- Hyperparameter selection and experiment tracking
+
+**Outcome:** Conducted controlled experiments comparing learning rates, batch sizes, and dropout rates for a feedforward neural network trained on AAPL stock-direction data.
+
 
 
