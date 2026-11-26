@@ -1,0 +1,3 @@
+Model,Feature Count,Validation Loss
+Full Feature Model,10,0.6949645280838013
+Reduced Feature Model,7,0.6960198283195496

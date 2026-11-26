@@ -90,5 +90,18 @@
 
 **Outcome:** Conducted controlled experiments comparing learning rates, batch sizes, and dropout rates for a feedforward neural network trained on AAPL stock-direction data.
 
+### Week 8 – Day 4: Neural Network Feature Selection and Importance
+
+**Topics covered:**
+- Feature selection and dimensionality reduction concepts
+- Correlation analysis and redundant features
+- Permutation feature importance
+- Validation log-loss impact of feature shuffling
+- Feature importance variability across repeated permutations
+- Full-feature versus reduced-feature neural networks
+- Feature-selection bias and generalization limitations
+
+**Outcome:** Evaluated the contribution of AAPL market features to a feedforward neural network and compared full-feature and reduced-feature models using validation performance.
+
 
 
